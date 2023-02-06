@@ -24,7 +24,7 @@ img {
 }
 
 .blinker {
-  animation: blinker 1s linear infinite;
+  animation: blinker 2.3s linear infinite;
 }
 
 @keyframes blinker {
